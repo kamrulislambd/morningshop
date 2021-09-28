@@ -30,5 +30,11 @@
   html {
     font-size: 50%;
   }
+  .header {
+    padding: 1rem;
+   }
+  .header .logo img{
+  width: 150px;
+  }
 }
 /*# sourceMappingURL=responsive.css.map */
