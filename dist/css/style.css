@@ -615,6 +615,12 @@ section {
 .footer .box-container .box {
   padding: 2rem 1rem;
 }
+.footer .box-container .box img {
+  width: 20rem;
+  display: block;
+  padding: 1rem 0;
+  cursor: pointer;
+}
 
 .footer .box-container .box .title {
   font-size: 2.5rem;
@@ -681,7 +687,7 @@ section {
 .footer .box-container .box .btn {
   border-color: #130f40;
   color: #130f40;
-  margin: 3rem 2rem;
+  margin: 3rem 0;
 }
 
 .footer .box-container .box .btn:hover {
